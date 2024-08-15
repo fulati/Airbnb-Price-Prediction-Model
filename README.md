@@ -27,3 +27,7 @@ This project aims to predict the price of Airbnb listings in New York City using
 - **Evaluation Results**:
   - **Random Forest**: RMSE of 0.7920 and R² score of 0.4058.
   - **Linear Regression**: RMSE of 0.8295 and R² score of 0.3482.
+
+
+Conclusion: 
+In this analysis, I developed and evaluated Linear Regression (LR) and Random Forest (RF) models to predict Airbnb listing prices. The Random Forest model performed better, with an RMSE of 0.7920 and an R² of 0.4058, compared to the Linear Regression model's RMSE of 0.8295 and R² of 0.3482. While the Random Forest model showed improved accuracy, the relatively low R² scores suggest that there is room for further enhancement through additional feature engineering and model refinement.
